@@ -1,0 +1,14 @@
+*{
+    margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+body{
+    .card{
+        display: flex;
+        justify-content: center;
+        flex-direction: row;
+        box-sizing: border-box;
+        border: none;
+    }
+}
